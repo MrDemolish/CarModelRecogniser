@@ -7,7 +7,7 @@ W trakcie realizacji
 Celem tego projektu jest stworzenie modelu uczenia maszynowego, który jest w stanie automatycznie klasyfikować różne marki i modele samochodów na podstawie zdjęć. Projekt wykorzystuje techniki głębokiego uczenia i jest zbudowany na bazie konwolucyjnych sieci neuronowych (CNN).
 
 ## Dane
-Zestaw danych składa się z tysięcy zdjęć samochodów, pogrupowanych według marki i modelu. Każde zdjęcie jest etykietowane, co umożliwia nadzorowane uczenie modelu.
+Zestaw danych składa się z tysięcy zdjęć samochodów, pogrupowanych według marki i modelu. Każde zdjęcie jest etykietowane, co umożliwia nadzorowane uczenie modelu. **Uwaga**: Aktualne wyniki nie są adekwatne ze względu na błędną strukturę pliku .mat dostarczonego przez Stanford. Ścieżki do plików są źle przypisane, co wymaga znalezienia innego zestawu danych lub naprawienia obecnego.
 
 ## Technologie
 - Python
