@@ -1,4 +1,4 @@
-# Tytuł Projektu: Klasyfikacja Samochodów za pomocą Głębokiego Uczenia
+# Tytuł Projektu: Klasyfikacja Samochodów za pomocą Głębokiego Uczenia - Porzucone
 
 ## Status
 Przerwany - Muszę znaleźć innego dataseta, bo ten (od Stanforda) jest źle ustrukturyzowany. Konwencja nazewnictwa do odpowiednich plików graficznych jest kompletnie inna w pliku .mat aniżeli w realnych ścieżkach na dysku. Próbowałem zmienić konwencję nazewnictwa odpowiednich plików poprzez augmentację danych. Niestety wygląda na to iż ten sposób również nie działa ponieważ klasy (modele) samochodów są podpięte pod złe zdjęcia.
